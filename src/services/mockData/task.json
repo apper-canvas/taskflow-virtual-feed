@@ -1,0 +1,57 @@
+[
+  {
+    "Id": 1,
+    "title": "Review quarterly budget reports",
+    "description": "Analyze Q3 performance and prepare recommendations for Q4 budget allocation",
+    "priority": "high",
+    "categoryId": "1",
+    "dueDate": "2024-01-20",
+    "completed": false,
+    "createdAt": "2024-01-15T09:00:00Z",
+    "updatedAt": "2024-01-15T09:00:00Z"
+  },
+  {
+    "Id": 2,
+    "title": "Schedule team standup meetings",
+    "description": "Coordinate with all team leads to establish weekly standup schedule",
+    "priority": "medium",
+    "categoryId": "1",
+    "dueDate": "2024-01-18",
+    "completed": true,
+    "createdAt": "2024-01-14T14:30:00Z",
+    "updatedAt": "2024-01-17T10:15:00Z"
+  },
+  {
+    "Id": 3,
+    "title": "Update project documentation",
+    "description": "Revise API documentation and user guides for the latest release",
+    "priority": "medium",
+    "categoryId": "2",
+    "dueDate": "2024-01-22",
+    "completed": false,
+    "createdAt": "2024-01-16T11:20:00Z",
+    "updatedAt": "2024-01-16T11:20:00Z"
+  },
+  {
+    "Id": 4,
+    "title": "Grocery shopping for dinner party",
+    "description": "Buy ingredients for Saturday's dinner party - check wine selection",
+    "priority": "low",
+    "categoryId": "3",
+    "dueDate": "2024-01-19",
+    "completed": false,
+    "createdAt": "2024-01-17T16:45:00Z",
+    "updatedAt": "2024-01-17T16:45:00Z"
+  },
+  {
+    "Id": 5,
+    "title": "Complete React component refactoring",
+    "description": "Migrate legacy class components to functional components with hooks",
+    "priority": "high",
+    "categoryId": "2",
+    "dueDate": "2024-01-21",
+    "completed": false,
+    "createdAt": "2024-01-15T13:30:00Z",
+    "updatedAt": "2024-01-15T13:30:00Z"
+  }
+]

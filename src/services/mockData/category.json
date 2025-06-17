@@ -1,0 +1,30 @@
+[
+  {
+    "Id": 1,
+    "name": "Work",
+    "color": "#5B4FE9",
+    "icon": "Briefcase",
+    "taskCount": 3
+  },
+  {
+    "Id": 2,
+    "name": "Development",
+    "color": "#4CAF50",
+    "icon": "Code",
+    "taskCount": 2
+  },
+  {
+    "Id": 3,
+    "name": "Personal",
+    "color": "#FFB74D",
+    "icon": "User",
+    "taskCount": 1
+  },
+  {
+    "Id": 4,
+    "name": "Health",
+    "color": "#FF9800",
+    "icon": "Heart",
+    "taskCount": 0
+  }
+]
