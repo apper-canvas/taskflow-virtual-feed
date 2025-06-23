@@ -192,10 +192,10 @@ const Dashboard = () => {
             <div className="flex items-center space-x-3">
               <div className="w-10 h-10 bg-primary rounded-lg flex items-center justify-center">
                 <ApperIcon name="CheckSquare" className="w-6 h-6 text-white" />
-</div>
+              </div>
               <div>
                 <h1 className="font-heading font-bold text-2xl text-gray-900">
-                  Tasker
+                  TaskFlow
                 </h1>
                 <p className="text-sm text-gray-600">
                   Organize your day with clarity
